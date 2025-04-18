@@ -1,2 +1,1 @@
-```lua
-loadstring(game:HttpGet("https://pastie.io/raw/issqaj"))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/Bakugan/refs/heads/main/Bakugan.lua", true))()
